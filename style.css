@@ -164,7 +164,7 @@ nav > li > p {
 
     background: none;
     /* padding: 16px; */
-    position: absolute;
+    /* position: absolute; */
     bottom: 50%;
     border: 0;
     transform: translateY(-50%);
